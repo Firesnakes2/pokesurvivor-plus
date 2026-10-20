@@ -36,7 +36,7 @@ window.PS_FIREBASE = {
 
   appId: "1:24171309578:web:681676536528a5f3e88df3",
 
-  measurementId: "G-G96MJRK75D"
+  measurementId: "G-G96MJRK75D",
 
   databaseURL: 'https://pokesurvivors-pg-default-rtdb.firebaseio.com/'
 };
