@@ -22,7 +22,7 @@
  *   databaseURL: 'https://your-project-default-rtdb.europe-west1.firebasedatabase.app'
  * };
  */
-const firebaseConfig = {
+window.PS_FIREBASE = {
 
   apiKey: "AIzaSyCn4DFhwe3hlS1Tf-4tjXR_2Oz0FokSJPA",
 
