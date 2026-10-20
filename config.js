@@ -22,4 +22,21 @@
  *   databaseURL: 'https://your-project-default-rtdb.europe-west1.firebasedatabase.app'
  * };
  */
-window.PS_FIREBASE = null;
+const firebaseConfig = {
+
+  apiKey: "AIzaSyCn4DFhwe3hlS1Tf-4tjXR_2Oz0FokSJPA",
+
+  authDomain: "pokesurvivors-pg.firebaseapp.com",
+
+  projectId: "pokesurvivors-pg",
+
+  storageBucket: "pokesurvivors-pg.firebasestorage.app",
+
+  messagingSenderId: "24171309578",
+
+  appId: "1:24171309578:web:681676536528a5f3e88df3",
+
+  measurementId: "G-G96MJRK75D"
+
+  databaseURL: 'https://pokesurvivors-pg-default-rtdb.firebaseio.com/'
+};
